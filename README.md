@@ -1,6 +1,6 @@
 ## Hello!👋
 
-### I'm Ulyana and I'm a Full Stack Developer 👩‍💻
+### I'm Uliana and I'm a Full Stack Developer 👩‍💻
 
 ![Header](https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif)
 
