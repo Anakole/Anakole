@@ -1,4 +1,4 @@
-### Hi there 👋
+[!Heder(https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif)]
 
 <!--
 **Anakole/Anakole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
