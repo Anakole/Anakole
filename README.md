@@ -1,6 +1,6 @@
 ![Header](https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif)
 
-Lenguages and Tools
+##Languages and Tools :
 
 ![HTML](https://img.shields.io/badge/HTML5-261409?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-261409?style=for-the-badge&logo=CSS3)
@@ -11,7 +11,7 @@ Lenguages and Tools
 ![Webpack](https://img.shields.io/badge/Webpack-261409?style=for-the-badge&logo=Webpack)
 ![GIT](https://img.shields.io/badge/GIT-261409?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-261409?style=for-the-badge&logo=Figma)
-![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-261409?style=for-the-badge&logo=AdobePhotoshop)
+![AdobePhotoshop](https://img.shields.io/badge/Photoshop-261409?style=for-the-badge&logo=AdobePhotoshop)
 
 <!--
 **Anakole/Anakole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
