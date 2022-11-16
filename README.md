@@ -4,7 +4,7 @@
 
 ![Header](https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif)
 
-### About me:
+### 👉🏽 About me:
 
 I am a student of an IT School, now I am getting acquainted with the world of development and learning new technologies. I plan to constantly move forward and master several programming languages. I have a dream to turn all my ideas into reality 🙌🏽
 
