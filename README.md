@@ -28,11 +28,11 @@ I am a student of an IT School, now I am getting acquainted with the world of de
 [![Facebook](https://img.shields.io/badge/Facebook-442912?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100005076345899)
 [![djinni](https://img.shields.io/badge/djinni-442912?style=for-the-badge&logo=Django&logoColor=0d5bcb)](https://djinni.co/q/bdbf843e0b/)
 
-### My resume :
+### 👉🏽 My resume :
 
 the link was stolen by mice 🐭
 
-### My stats :
+### 👉🏽 My stats :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anakole&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
