@@ -1,8 +1,8 @@
 ## Hello!👋
 
-### I'm Uliana and I'm a Full Stack Developer 👩‍💻
+### I'm a Full Stack Developer. Welcome to my pantry with projects 👩‍💻
 
-![Header](https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif)
+<!-- ![Header](https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif) -->
 
 ### 👉🏽 About me:
 
