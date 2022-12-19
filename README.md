@@ -1,6 +1,6 @@
-## Hello!👋
+## Hello World!👋
 
-### I'm a Full Stack Developer. Welcome to my pantry with projects 👩‍💻
+### I'm a Front-End Developer. I invite you to my page, where you can watch my educational process 👩‍💻
 
 <!-- ![Header](https://github.com/Anakole/Anakole/blob/main/assets/giphy2.gif) -->
 
