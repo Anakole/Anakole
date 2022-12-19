@@ -25,7 +25,6 @@ I am a student of an IT School, now I am getting acquainted with the world of de
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-442912?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/uliana-kolesnikova-0259b7240/)
 [![Telegram](https://img.shields.io/badge/Telegram-442912?style=for-the-badge&logo=Telegram)](https://t.me/anakole)
-[![Facebook](https://img.shields.io/badge/Facebook-442912?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100005076345899)
 
 ### 👉🏽 My resume :
 
