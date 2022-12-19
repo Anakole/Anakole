@@ -29,7 +29,7 @@ I am a student of an IT School, now I am getting acquainted with the world of de
 
 ### 👉🏽 My resume :
 
-the link was stolen by mice 🐭
+[![Link](https://img.shields.io/badge/Link-442912?style=for-the-badge&logo=googledrive)]([https://www.linkedin.com/in/uliana-kolesnikova-0259b7240/](https://drive.google.com/file/d/1V6o2ern_jD7TmqeV5xhXGxJUdACHLU9W/view?usp=share_link))
 
 ### 👉🏽 My stats :
 
